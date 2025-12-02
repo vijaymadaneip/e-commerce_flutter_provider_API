@@ -1,0 +1,72 @@
+
+
+
+
+
+Hostinger
+Milesweb
+shopify
+woocommerce
+
+
+
+
+
+Task 1 :
+CRUD App with Flutter, Firbase Firestore and Provider State Management
+Git Link : 
+
+
+
+
+
+checkout not working of description
+
+
+
+
+
+
+// product container proper alignment
+// product add scaffold messagnger
+// car screen proper alignment product list
+
+// order process wating circular indicator
+// splash screen
+
+
+
+
+
+
+
+
+
+// convert doller to rupee
+// show discount price
+// calculate total in cart
+// description of product counter working
+// show total of all product
+
+
+// splash screen
+// shimmer effects while product loading
+
+
+// bottomsheet modal for show method to change payment method
+
+
+
+// search bar by product
+// filter by price
+// if order placed show in my orders
+// profile info add
+// addres info add
+// login logout
+
+Pending Concepts in Flutter: 
+- API fetch using Dio Package and its Task
+- BlOC State Management Learning and its Implementaion with Task
+- Local Storage : shared_preferences/hive/sqflite and its Task
+
+

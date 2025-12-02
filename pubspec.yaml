@@ -1,0 +1,34 @@
+name: flutter_api
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  cached_network_image: ^3.4.1
+  carousel_slider: ^5.1.1
+  cloud_firestore: ^6.1.0
+  firebase_core: ^4.2.1
+  flutter:
+    sdk: flutter
+  http: ^1.6.0
+  lottie: ^3.3.2
+  provider: ^6.1.5+1
+  readmore: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+      - assets/carousel/
+      - assets/banner/
+      - assets/category/
+      - assets/Payment/
+      - assets/Profile/
+      - assets/Lottie/
