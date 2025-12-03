@@ -42,6 +42,8 @@ Order Placement Logic: Calculates totals, creates order records, and clears the 
 | ![Home](assets/Screenshots/home.jpg) | ![Shop](assets/Screenshots/shop.jpg) | ![Cart](assets/Screenshots/cart.jpg) |
 | ![Wishlist](assets/Screenshots/wishlist.jpg) | ![Order Review](assets/Screenshots/ordereview.jpg) | ![Order Review 2](assets/Screenshots/orderreview2.jpg) |
 | ![Order Placed](assets/Screenshots/orderplaced.jpg) | ![Order Processing](assets/Screenshots/orderprocess.jpg) | ![My Orders](assets/Screenshots/myorders.jpg) |
+| ![Electronics](assets/Screenshots/electronics.jpg) | ![Jewllary](assets/Screenshots/jewllary.jpg) | ![Womens](assets/Screenshots/womens.jpg) |
+| ![Mens](assets/Screenshots/mens.jpg) | ![Empty Cart](assets/Screenshots/emptycart.jpg) | ![Empty WishList](assets/Screenshots/emptywishlist.jpg) |
 | ![Profile](assets/Screenshots/Profile.jpg) | ![User Profile](assets/Screenshots/userprofile.jpg) | ![Address](assets/Screenshots/address.jpg) |
 | ![Add New Address](assets/Screenshots/addnewaddress.jpg) | ![Exit](assets/Screenshots/exit.jpg) | ![Change Name](assets/Screenshots/changename.jpg) |
 
