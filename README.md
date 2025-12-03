@@ -36,32 +36,11 @@ My Orders Screen: View previously placed orders.
 Order Placement Logic: Calculates totals, creates order records, and clears the cart using Provider.
 ## Screenshots
 
-![App Screenshot](assets/Screenshots/home.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/shop.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/cart.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/wishlist.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/ordereview.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/orderreview2.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/orderplaced.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/orderprocess.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/myorders.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/Profile.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/userprofile.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/address.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/addnewaddress.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App Screenshot](assets/Screenshots/exit.jpg)
+| | | | |
+|---|---|---|---|
+| ![Home](assets/Screenshots/home.jpg) | ![Shop](assets/Screenshots/shop.jpg) | ![Cart](assets/Screenshots/cart.jpg) | ![Wishlist](assets/Screenshots/wishlist.jpg) |
+| ![Order Review](assets/Screenshots/ordereview.jpg) | ![Order Review 2](assets/Screenshots/orderreview2.jpg) | ![Order Placed](assets/Screenshots/orderplaced.jpg) | ![Order Processing](assets/Screenshots/orderprocess.jpg) |
+| ![My Orders](assets/Screenshots/myorders.jpg) | ![Profile](assets/Screenshots/Profile.jpg) | ![User Profile](assets/Screenshots/userprofile.jpg) | ![Address](assets/Screenshots/address.jpg) |
+| ![Add New Address](assets/Screenshots/addnewaddress.jpg) | ![Exit](assets/Screenshots/exit.jpg) | | |
 
 
