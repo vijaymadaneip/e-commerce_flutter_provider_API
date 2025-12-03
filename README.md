@@ -37,18 +37,31 @@ Order Placement Logic: Calculates totals, creates order records, and clears the 
 ## Screenshots
 
 ![App Screenshot](assets/Screenshots/home.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/shop.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/cart.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/wishlist.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/ordereview.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/orderreview2.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/orderplaced.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/orderprocess.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/myorders.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/Profile.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/userprofile.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/address.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/addnewaddress.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![App Screenshot](assets/Screenshots/exit.jpg)
 
 
