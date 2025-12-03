@@ -40,12 +40,13 @@ Order Placement Logic: Calculates totals, creates order records, and clears the 
 =======
 ## Screenshots
 
->>>>>>> 7c9239bf2e81da4459681960992965117489b2f4
-| | | | |
-|---|---|---|---|
-| ![Home](assets/Screenshots/home.jpg) | ![Shop](assets/Screenshots/shop.jpg) | ![Cart](assets/Screenshots/cart.jpg) | ![Wishlist](assets/Screenshots/wishlist.jpg) |
-| ![Order Review](assets/Screenshots/ordereview.jpg) | ![Order Review 2](assets/Screenshots/orderreview2.jpg) | ![Order Placed](assets/Screenshots/orderplaced.jpg) | ![Order Processing](assets/Screenshots/orderprocess.jpg) |
-| ![My Orders](assets/Screenshots/myorders.jpg) | ![Profile](assets/Screenshots/Profile.jpg) | ![User Profile](assets/Screenshots/userprofile.jpg) | ![Address](assets/Screenshots/address.jpg) |
-| ![Add New Address](assets/Screenshots/addnewaddress.jpg) | ![Exit](assets/Screenshots/exit.jpg) | | |
+| | | |
+|---|---|---|
+| ![Home](assets/Screenshots/home.jpg) | ![Shop](assets/Screenshots/shop.jpg) | ![Cart](assets/Screenshots/cart.jpg) |
+| ![Wishlist](assets/Screenshots/wishlist.jpg) | ![Order Review](assets/Screenshots/ordereview.jpg) | ![Order Review 2](assets/Screenshots/ordereview2.jpg) |
+| ![Order Placed](assets/Screenshots/orderplaced.jpg) | ![Order Processing](assets/Screenshots/orderprocess.jpg) | ![My Orders](assets/Screenshots/myorders.jpg) |
+| ![Profile](assets/Screenshots/Profile.jpg) | ![User Profile](assets/Screenshots/userprofile.jpg) | ![Address](assets/Screenshots/address.jpg) |
+| ![Add New Address](assets/Screenshots/addnewaddress.jpg) | ![Exit](assets/Screenshots/exit.jpg) | ![Change Name](assets/Screenshots/changename.jpg) |
+
 
 
