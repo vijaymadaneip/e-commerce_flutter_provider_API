@@ -36,6 +36,11 @@ My Orders Screen: View previously placed orders.
 Order Placement Logic: Calculates totals, creates order records, and clears the cart using Provider.
 ## Screenshots
 
+<<<<<<< HEAD
+=======
+## Screenshots
+
+>>>>>>> 7c9239bf2e81da4459681960992965117489b2f4
 | | | | |
 |---|---|---|---|
 | ![Home](assets/Screenshots/home.jpg) | ![Shop](assets/Screenshots/shop.jpg) | ![Cart](assets/Screenshots/cart.jpg) | ![Wishlist](assets/Screenshots/wishlist.jpg) |
