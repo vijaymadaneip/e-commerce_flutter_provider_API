@@ -34,10 +34,7 @@ Wishlist Screen: Save and manage favorite items.
 My Orders Screen: View previously placed orders.
 
 Order Placement Logic: Calculates totals, creates order records, and clears the cart using Provider.
-## Screenshots
 
-<<<<<<< HEAD
-=======
 ## Screenshots
 
 | | | |

@@ -5,9 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_api/apimodel/newProduct.dart';
 
 class Cartprovider extends ChangeNotifier {
-  // firebase firestor instance
-  static final FirebaseFirestore _dbservicesofFIREBASE =
-      FirebaseFirestore.instance;
+ 
 
   final List<Product> _itemInCarts = [];
 
@@ -94,32 +92,7 @@ class Cartprovider extends ChangeNotifier {
     }
   }
 
-  //get index of product
 
-  Future<void> addProductoFirestore(Product product) async {
-    log("Inside the firebase firstor fucntion");
-
-    // Map<String, dynamic> addthistaskfirestore = product.toJson()
-
-    Map<String, dynamic> addthistaskfirestore = product.toJson();
-
-    DocumentReference docRef = await _dbservicesofFIREBASE
-        .collection("ProductsInCart")
-        .add(addthistaskfirestore);
-    log("Added Product On the firestorev with docReference : $docRef");
-  }
-  // Future<void> addProductoFirestore(List<Product> product) async {
-  //   log("Inside the firebase firstor fucntion");
-
-  //   // Map<String, dynamic> addthistaskfirestore = product.toJson()
-  //   for(dynamic singleproduct in product){
-  //     Map<String,dynamic> addthistaskfirestore = Product.toJson(singleproduct);
-  //   }
-  //   DocumentReference docRef = await _dbservicesofFIREBASE
-  //       .collection("ProductsInCart")
-  //       .add(addthistaskfirestore);
-  //   log("Added Product On the firestorev with docReference : $docRef");
-  // }
 
 
 //Rate or the doller
@@ -141,14 +114,22 @@ class Cartprovider extends ChangeNotifier {
   }
 
   //total of the all product in car
-  double get cartSubtotalINR => cartSubtotalUSD * usdToInrRate;
+  double get cartSubtotalINR {
+    return  cartSubtotalUSD * usdToInrRate;
+  }
 
   //shipping fee
-  double get shippingFeeINR => _itemInCarts.isEmpty ? 0 : 50;
+  double get shippingFeeINR {
+    return _itemInCarts.isEmpty ? 0 : 50;
+  }
 
   // tax fees
-  double get taxFeeINR => 0;
+  double get taxFeeINR {
+    return 0;
+  }
 
   // FINAL ORDER TOTAL
-  double get orderTotalINR => cartSubtotalINR + shippingFeeINR + taxFeeINR;
+  double get orderTotalINR {
+    return cartSubtotalINR + shippingFeeINR + taxFeeINR;
+  }
 }

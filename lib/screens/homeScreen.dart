@@ -9,7 +9,7 @@ import 'package:flutter_api/apiservices/apiservicesProvider.dart';
 import 'package:flutter_api/screens/NavigationMenuScreens/cartScreen.dart';
 import 'package:flutter_api/screens/NavigationMenuScreens/profileScreen.dart';
 import 'package:flutter_api/screens/NavigationMenuScreens/shopScreen.dart';
-import 'package:flutter_api/screens/NavigationMenuScreens/wishListScree.dart';
+import 'package:flutter_api/screens/NavigationMenuScreens/wishListScreen.dart';
 import 'package:flutter_api/screens/landingScreen.dart';
 
 import 'package:http/http.dart' as http;
