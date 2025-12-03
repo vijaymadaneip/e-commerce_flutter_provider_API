@@ -36,5 +36,19 @@ My Orders Screen: View previously placed orders.
 Order Placement Logic: Calculates totals, creates order records, and clears the cart using Provider.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](assets/Screenshots/home.jpg)
+![App Screenshot](assets/Screenshots/shop.jpg)
+![App Screenshot](assets/Screenshots/cart.jpg)
+![App Screenshot](assets/Screenshots/wishlist.jpg)
+![App Screenshot](assets/Screenshots/ordereview.jpg)
+![App Screenshot](assets/Screenshots/orderreview2.jpg)
+![App Screenshot](assets/Screenshots/orderplaced.jpg)
+![App Screenshot](assets/Screenshots/orderprocess.jpg)
+![App Screenshot](assets/Screenshots/myorders.jpg)
+![App Screenshot](assets/Screenshots/Profile.jpg)
+![App Screenshot](assets/Screenshots/userprofile.jpg)
+![App Screenshot](assets/Screenshots/address.jpg)
+![App Screenshot](assets/Screenshots/addnewaddress.jpg)
+![App Screenshot](assets/Screenshots/exit.jpg)
+
 
