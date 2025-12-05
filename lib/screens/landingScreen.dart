@@ -683,6 +683,7 @@ class _landingScreenState extends State<landingScreen> {
                                                                         .image,
                                                                 fit: BoxFit
                                                                     .contain,
+                                                                    
                                                               ),
                                                         ),
                                                       ),
